@@ -17,4 +17,8 @@
     <build>
     </build>
 
+    <modules>
+        <module>DiscoveryService</module>
+    </modules>
+
 </project>
